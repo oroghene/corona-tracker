@@ -1,4 +1,4 @@
-#[Live Site](https://covid-19-stats-oroghene.netlify.app/)
+# [Live Site](https://covid-19-stats-oroghene.netlify.app/)
 
 # Getting Started with Create React App
 
